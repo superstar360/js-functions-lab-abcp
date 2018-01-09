@@ -1,11 +1,11 @@
 // write your code below!
 var name = "Sobmenso"
 
-function happyHolidays(string) {
+function happyHolidays() {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(string) {
+function happyHolidaysTo(name) {
   return "Happy holidays, ${name}!"
 }
 
