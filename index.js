@@ -1,5 +1,5 @@
 // write your code below!
-var name = "Sobmenso"
+var name = "you"
 var holiday = "Independence"
 var days = 20
 
